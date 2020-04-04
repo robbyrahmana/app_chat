@@ -1,0 +1,52 @@
+{
+  "name": "FlutterIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "21b42d3c3e6be44c3cc3d73042faa216",
+      "css": "filter",
+      "code": 61918,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7c638496e4c7e626bc48bb5d8e6adc1d",
+      "css": "home",
+      "code": 59392,
+      "src": "linearicons"
+    },
+    {
+      "uid": "50cce7d700718251909fd034daf72600",
+      "css": "calendar",
+      "code": 59446,
+      "src": "linearicons"
+    },
+    {
+      "uid": "814cfaca1407bf45548558e1e2815bdf",
+      "css": "menu",
+      "code": 59505,
+      "src": "linearicons"
+    },
+    {
+      "uid": "28ccf4102fc7df9d88772d87231393b8",
+      "css": "chat",
+      "code": 59455,
+      "src": "linearicons"
+    },
+    {
+      "uid": "deae611810850ff02ea1a877a0f09891",
+      "css": "back",
+      "code": 59513,
+      "src": "linearicons"
+    },
+    {
+      "uid": "076bd4cd22150e8237c5817a9a7e03a7",
+      "css": "search",
+      "code": 59503,
+      "src": "linearicons"
+    }
+  ]
+}
