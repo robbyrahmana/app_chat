@@ -1,6 +1,7 @@
 import 'package:app_chat/core/consts.dart';
 import 'package:app_chat/core/flutter_icons.dart';
 import 'package:app_chat/models/chat_model.dart';
+import 'package:app_chat/pages/chat_item_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 
@@ -63,6 +64,13 @@ class _ChatPageState extends State<ChatPage> {
               itemCount: list.length,
               itemBuilder: (context, index) {
                 return ListTile(
+                  onTap: () {
+                    Navigator.of(context).push(
+                      MaterialPageRoute(
+                        builder: (_) => ChatItemPage(),
+                      ),
+                    );
+                  },
                   leading: Container(
                     width: 50,
                     height: 50,
