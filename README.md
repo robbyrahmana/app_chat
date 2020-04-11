@@ -12,6 +12,10 @@ Desig credit: https://dribbble.com/shots/10532189-Chat-Dark-Mode
 ```code
 This part will show how to create the Chat List Page
 ```
+### [Part 2](https://www.youtube.com/watch?v=oHl1qEnkZPA)
+```code
+This part will show how to create the Chat Item Page
+```
 
 # Command
 
