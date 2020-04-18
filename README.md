@@ -16,6 +16,10 @@ This part will show how to create the Chat List Page
 ```code
 This part will show how to create the Chat Item Page
 ```
+### [Part 3](https://www.youtube.com/watch?v=LbUrTD-x40g)
+```code
+This part will show how connect our chat application to firebase
+```
 
 # Command
 
