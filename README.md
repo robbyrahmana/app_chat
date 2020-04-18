@@ -36,3 +36,7 @@ flutter build apk
 # Plugins
 
 - [flutter_spinkit: ^4.1.2+1](https://pub.dev/packages/flutter_spinkit)
+- [firebase_auth: ^0.15.5+3](https://pub.dev/packages/firebase_auth)
+- [firebase_messaging: ^6.0.13](https://pub.dev/packages/firebase_messaging)
+- [firebase_storage: ^3.1.5](https://pub.dev/packages/firebase_storage)
+- [cloud_firestore: ^0.13.4+2](https://pub.dev/packages/cloud_firestore)
