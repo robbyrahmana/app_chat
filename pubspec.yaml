@@ -10,6 +10,10 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^0.1.2
   flutter_spinkit: ^4.1.2+1
+  firebase_auth: ^0.15.5+3
+  firebase_messaging: ^6.0.13
+  firebase_storage: ^3.1.5
+  cloud_firestore: ^0.13.4+2
 
 dev_dependencies:
   flutter_test:
